@@ -1,0 +1,32 @@
++Testing Unicode with Diff
+++Testing Unicode with Diff
++🄯
+++🄯
+-🄯
+-🄯🄯
++தமிழ் (Tamil)
+++ தமிழ் (Tamil)
+-தமிழ் (Tamil)
+--தமிழ் (Tamil)
++اَلْعَرَبِيَّةُ (Arabic) (right to left language)
+++اَلْعَرَبِيَّةُ (Arabic) (right to left language)
+-اَلْعَرَبِيَّةُ (Arabic) (right to left language)
+--اَلْعَرَبِيَّةُ (Arabic) (right to left language)
++سنڌي, सिन्धी, ਸਿੰਧੀ, 𑈩𑈭𑈴𑈝𑈮, 𑋝𑋡𑋟𑋐𑋢 (Sindhi)
+++سنڌي, सिन्धी, ਸਿੰਧੀ, 𑈩𑈭𑈴𑈝𑈮, 𑋝𑋡𑋟𑋐𑋢 (Sindhi)
+-سنڌي, सिन्धी, ਸਿੰਧੀ, 𑈩𑈭𑈴𑈝𑈮, 𑋝𑋡𑋟𑋐𑋢 (Sindhi)
+--سنڌي, सिन्धी, ਸਿੰਧੀ, 𑈩𑈭𑈴𑈝𑈮, 𑋝𑋡𑋟𑋐𑋢 (Sindhi)
++    монгол хэл (Mongolian (Cyrillic))
++ ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (Mongolian (Script))
+++    монгол хэл (Mongolian (Cyrillic))
+++ ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (Mongolian (Script))
+-    монгол хэл (Mongolian (Cyrillic))
+- ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (Mongolian (Script)) (vertical, top-down language)
+--    монгол хэл (Mongolian (Cyrillic))
+-- ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (Mongolian (Script)) (vertical, top-down language)
++ Chinese (Simplified: 汉语) (Traditional: 漢語) (left to right language)
+++{ Chinese (Simplified: 汉语) (Traditional: 漢語) (left to right language)
+- Chinese (Simplified: 汉语) (Traditional: 漢語) (left to right language)
+--{ Chinese (Simplified: 汉语) (Traditional: 漢語) (left to right language)
++ I am not adding anymore right now
++ File version: (1, 2022, January 3rd at 7:09 pm)
