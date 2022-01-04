@@ -34,7 +34,7 @@
 *.js linguist-detectable=true
 *.js linguist-documentation=false
 # JSON (JavaScript Object Notation) source file
-*.json linguist-detectable=true
+*.json linguist-detectable=false
 *.json linguist-documentation=false
 # PHP (PHP HyperText Preprocessor) source file
 *.php linguist-detectable=true
@@ -97,6 +97,12 @@
 # DIFF
 *.diff linguist-detectable=true
 *.diff linguist-documentation=false
+# D language
+*.d linguist-detectable=true
+*.d linguist-documentation=false
+# R language
+*.r linguist-detectable=true
+*.r linguist-documentation=false
 # SVG (Scalable Vector Graphics) image file
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.svg linguist-detectable=false
@@ -116,6 +122,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (Monday, 2022 January 3rd at 3:58 pm)
-# Line count (including blank lines and compiler line): 122
+# File version: 5 (Monday, 2022 January 3rd at 5:03 pm)
+# Line count (including blank lines and compiler line): 128
 # End of script
